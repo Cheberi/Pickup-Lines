@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/cheberi/Desktop/Pickup-lines/Pickup-Lines/mesh'
+VIRTUAL_ENV='/home/cheberi/Documents/Python/News/News-Recap/mesh'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
