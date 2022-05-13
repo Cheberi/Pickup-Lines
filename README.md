@@ -1,8 +1,8 @@
 # Pickup-Lines
 
 ## Author
-Meshack Cheberi
-github:(https://github.com/Cheberi)
+* Meshack Cheberi
+* github:(https://github.com/Cheberi)
 
 
 # Description
