@@ -23,7 +23,7 @@ This  is a flask application that allows writers to post pitches, edit and delit
 
 ## Setup
 
-* Download or clone files from this repo. link(https://github.com/Cheberi/News-Recap)
+* Download or clone files from this repo. link(https://github.com/Cheberi/Pickup-Lines)
 
 
 
