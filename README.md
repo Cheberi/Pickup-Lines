@@ -39,9 +39,6 @@ This  is a flask application that allows writers to post pitches, edit and delit
 
 ## Known Bugs
 * App not running as expected
-## Contact Information 
-
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
 
 ## License
 * MIT License
